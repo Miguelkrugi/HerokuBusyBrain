@@ -1,0 +1,13 @@
+package com.busybrainofficialapi.apibusybrainofficialll;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ApibusybrainofficialllApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
